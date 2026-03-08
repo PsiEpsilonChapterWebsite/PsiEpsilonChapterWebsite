@@ -1,0 +1,22 @@
+
+.tree-node {
+  cursor: pointer;
+}
+
+.tree-node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.tree-node text {
+  font-size: 14px;
+}
+
+.biography {
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
