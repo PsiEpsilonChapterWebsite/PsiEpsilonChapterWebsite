@@ -658,6 +658,16 @@ const member_list = {
       origin: "",
       catchphrase: "",
     },
+    dcruz: {
+      id: "dcruz",
+      img_src: "",
+      name: "Dylan Miller-Cruz",
+      major: "Electrical Engineering ",
+      number: "74",
+      class: "2026",
+      origin: "",
+      catchphrase: "",
+    },
   },
   regents: {
     previous: {
@@ -714,10 +724,10 @@ const member_list = {
     { group: "edges", data: { source: "zhardin", target: "jstevens" } },
     { group: "edges", data: { source: "zhardin", target: "ctomasky" } },
     { group: "edges", data: { source: "zhardin", target: "aquarra" } },
-    { group: "edges", data: { source: "afrench", target: "ahaughwout" } },
-    { group: "edges", data: { source: "rlamb", target: "ccapawana" } },
-    { group: "edges", data: { source: "rblomquist", target: "sfivndraat" } },//ADD RBLOMQUIST YOU CLOWN
-    { group: "edges", data: { source: "sfijnvandraat", target: "tross" } },
+    // { group: "edges", data: { source: "afrench", target: "ahaughwout" } },
+    // { group: "edges", data: { source: "rlamb", target: "ccapawana" } },
+    // { group: "edges", data: { source: "rblomquist", target: "sfivndraat" } },//ADD RBLOMQUIST YOU CLOWN
+    // { group: "edges", data: { source: "sfijnvandraat", target: "tross" } },
     { group: "edges", data: { source: "kmobley", target: "jnichols" } },
     // TODO: Add Garrett to Maddie, Maddie to Riley, then Garrett to Elizabeth, and Elizabeth to Sam
     
