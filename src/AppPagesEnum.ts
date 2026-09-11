@@ -7,7 +7,7 @@ export enum AppPagesEnum {
   Members = "Members",
   JoinUs = "JoinUs",
   Events = "Events",
-  Silly = "Silly",
+  Silly = "Silly :)",
 }
 
 export default AppPagesEnum;

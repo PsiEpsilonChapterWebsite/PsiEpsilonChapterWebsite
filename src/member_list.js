@@ -724,7 +724,7 @@ const member_list = {
     { group: "edges", data: { source: "zhardin", target: "jstevens" } },
     { group: "edges", data: { source: "zhardin", target: "ctomasky" } },
     { group: "edges", data: { source: "zhardin", target: "aquarra" } },
-    // { group: "edges", data: { source: "afrench", target: "ahaughwout" } },
+    { group: "edges", data: { source: "afrench", target: "ahaughwout" } },
     // { group: "edges", data: { source: "rlamb", target: "ccapawana" } },
     // { group: "edges", data: { source: "rblomquist", target: "sfivndraat" } },//ADD RBLOMQUIST YOU CLOWN
     // { group: "edges", data: { source: "sfijnvandraat", target: "tross" } },
