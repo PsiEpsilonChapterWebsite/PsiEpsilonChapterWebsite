@@ -1,7 +1,7 @@
 {
   "name": "tau-site",
   "version": "0.1.0",
-  "homepage": "https://psiepsilonchapter.github.io/PsiEpsilonChapterWebsite",
+  "homepage": "https://psiepsilonchapterwebsite.github.io/PsiEpsilonChapterWebsite",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
